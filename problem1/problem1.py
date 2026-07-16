@@ -12,3 +12,8 @@ def array_fun(num):
     return (f"Even number count in array is :{count_even}\nOdd number count in array is: {count_odd}")
 
 print(array_fun(num))
+
+
+
+#Time complexity : O(n)
+#Space complexity : O(1)
