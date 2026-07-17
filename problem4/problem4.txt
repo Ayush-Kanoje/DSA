@@ -14,4 +14,3 @@ Explanation:
 Constraints:
 
 n must be a positive integer (n > 0)
-Do not use str() or len() — solve it using math only
