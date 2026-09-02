@@ -28,8 +28,6 @@ This repository chronicles my **daily quest** to conquer LeetCode challenges, on
 | **Easy** | 5 ✅ |
 | **Medium** | 1 🔥 |
 | **Hard** | 0 💀 |
-| **Current Streak** | 🔥 Building... |
-| **Favorite Data Structure** | Arrays & Linked Lists |
 
 ---
 
@@ -57,29 +55,12 @@ Each problem folder contains:
 |----------|----------|----------|
 | 🔢 **Arrays** | ▓▓▓░░░░░░░ | 30% |
 | 🔗 **Linked Lists** | ▓▓░░░░░░░░ | 20% |
-| 🌳 **Trees** | ░░░░░░░░░░ | 0% |
-| 📊 **Graphs** | ░░░░░░░░░░ | 0% |
-| 🔍 **Binary Search** | ░░░░░░░░░░ | 0% |
-| 🧮 **Dynamic Programming** | ░░░░░░░░░░ | 0% |
-| 🎲 **Backtracking** | ░░░░░░░░░░ | 0% |
+
 
 </div>
 
 ---
 
-## 💡 Philosophy & Approach
-
-### 🎨 **The Creative Problem Solver**
-I don't just solve problems—I **dissect** them. Every solution is an opportunity to:
-- 🧪 Experiment with multiple approaches
-- 📝 Document my reasoning process
-- 🔬 Analyze time & space complexity
-- ♻️ Refactor for elegance and efficiency
-
-### 📅 **Daily Ritual**
-1. ☀️ **Morning**: Pick a problem aligned with current learning goals
-2. 🧠 **Midday**: Research patterns and alternative solutions
-3. 🌙 **Evening**: Implement, test, and commit
 
 ### 🎯 **Learning Goals**
 - Master fundamental data structures
@@ -102,16 +83,6 @@ I don't just solve problems—I **dissect** them. Every solution is an opportuni
 
 ---
 
-## 🛠️ Tech Stack
-
-```python
-tools = {
-    "language": "Python 3.x",
-    "editor": "VS Code + Kiro AI",
-    "testing": "Built-in test cases + edge cases",
-    "version_control": "Git & GitHub"
-}
-```
 
 ---
 
@@ -123,10 +94,6 @@ tools = {
 │   love what you do." - Steve Jobs       │
 └─────────────────────────────────────────┘
 
-Week 1:  ████░░░░░░  [40% - Foundation]
-Week 2:  ██████░░░░  [60% - Momentum]
-Week 3:  ████████░░  [80% - Consistency]
-Week 4:  ██████████  [100% - Mastery]
 ```
 
 ---
@@ -159,14 +126,6 @@ Week 4:  ██████████  [100% - Mastery]
 **Want to discuss approaches?** Start a discussion!  
 **Learning together?** Let's connect!
 
----
-
-### ⭐ If this journey inspires you, drop a star!
-
-*"Logic is the beginning of wisdom, not the end."*  
-— Spock
-
-</div>
 
 ---
 
