@@ -29,3 +29,8 @@ class Solution:
                 total += current
 
         return total
+
+
+
+# TC - O(n)
+# SC - O(n)

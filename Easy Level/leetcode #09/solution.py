@@ -8,7 +8,6 @@ class Solution:
             return False
 
 
-# Simple input example
-sol = Solution()
-result = sol.palindrome(121)
-print(result)
+# TC - O(log10(x))
+# SC - O(log10(x))
+

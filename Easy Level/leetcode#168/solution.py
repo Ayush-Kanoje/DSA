@@ -10,3 +10,7 @@ class Solution:
 
             else:
                 value_map[nums[i]] = i
+
+
+# TC - O(n)
+# SC - O(n)

@@ -15,6 +15,6 @@ class Solution:
         else:
             return False
 
-sol = Solution()
-result3 = sol.isPalindrome("0P")
-print(result3)
+# TC - O(n)
+# SC - O(n)
+
