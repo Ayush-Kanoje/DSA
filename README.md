@@ -24,8 +24,8 @@ This repository chronicles my **daily quest** to conquer LeetCode challenges, on
 
 | 🏆 Metric | 📈 Status |
 |-----------|-----------|
-| **Total Problems Solved** | 6 |
-| **Easy** | 5 ✅ |
+| **Total Problems Solved** | 7 |
+| **Easy** | 6 ✅ |
 | **Medium** | 1 🔥 |
 | **Hard** | 0 💀 |
 
