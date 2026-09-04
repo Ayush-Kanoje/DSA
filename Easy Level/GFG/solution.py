@@ -11,3 +11,9 @@ class Solution:
                     count += 1
                     
         return num_list     
+
+
+# TC - O(root N) + O(N log N) 
+# Sc - O(k) : amount of factors
+
+
