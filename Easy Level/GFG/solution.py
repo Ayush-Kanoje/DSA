@@ -13,7 +13,7 @@ class Solution:
         return num_list     
 
 
-# TC - O(root N) + O(N log N) 
-# Sc - O(k) : amount of factors
+# TC - O(sqrt(N)) + O(N log N) 
+# Sc - O(k) : amount of factors i.e O(1)
 
 
